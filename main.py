@@ -1,3 +1,4 @@
+print("スクリプト開始")
 from scraper import get_counselor_list
 
 def run():
